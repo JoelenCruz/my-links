@@ -1,4 +1,4 @@
-# Meu primeiro projeto em html
+# Meu primeiro projeto (html e css)
 
 https://joelencruz.github.io/my-links/ 
 
